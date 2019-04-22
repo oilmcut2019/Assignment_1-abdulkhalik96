@@ -1,8 +1,8 @@
 Please introduce yourself such as :
 
-Name 		: Abdul Khalik Akbar (Adudu | 偉大）
-Student ID 	: M07158030
-Major 		: Electronic Engineering
+Name 		: 
+Student ID 	: 
+Major 		: 
 
 After that, push on directory github classroom using "Git". 
 
